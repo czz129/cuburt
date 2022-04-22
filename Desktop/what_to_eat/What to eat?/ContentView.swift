@@ -4,7 +4,6 @@
 //
 //  Created by Key Zhang, Tina Chen, Xinyi Guo, Yi Zhuang.
 //  Copyright © 2022 Key Zhang, Tina Chen, Xinyi Guo, Yi Zhuang. All rights reserved.
-//
 
 import SwiftUI
 import CoreData
